@@ -1,4 +1,4 @@
-# Furniture Porfolio (expanding) for extended CV information
+# Forest School Images (expanding) for extended CV information
 
 This is a quick adaptation of the Expanding Cards project from the Udemy course [50 Projects in 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy and Florin Pop.
 
