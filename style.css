@@ -61,8 +61,31 @@ body {
   /* After looking at https://www.w3schools.com/css/css3_transitions.asp, the first parameter is what is being affected, the 2nd is obviously the delay and the 'ease in' means that the effect will start slowly. Note that  'ease-in-out' is also an option. The defaut is 'ease' which starts slow, gets fast, then ends slow */
 }
 
+.label {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  border-radius: 15px;
+  backdrop-filter: blur(8px);
+}
+
+.label-dark {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+  border-radius: 15px;
+  backdrop-filter: blur(8px);
+  color: #000;
+}
+
+.yellow-text {
+  color: #ffd413;
+}
+
+.blue-text {
+  color: #1362ff;
+}
+
 .dark-text {
-  color: #67697c;
+  color: #41424c;
 }
 
 .panel h3 {
